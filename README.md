@@ -23,8 +23,10 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Projek Saya
-* **Speedtest CLI**: Sebuah aplikasi CLI untuk mengukur kecepatan internet Anda (dalam pengembangan).
-* **Lainnya**: Saya memiliki beberapa projek lain yang sedang dalam pengembangan.
+* **Bot WhatsApp**: Sebuah bot WhatsApp yang terintegrasi dengan REST API MyAnimeList. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)
+* **REST API MyAnimeList**: API untuk mengakses data MyAnimeList. [Dokumentasi](https://guracomp.vercel.app)
+* **REST API Canvas Profile**: API untuk mengakses data profil canvas. [URL API](https://guracomp.vercel.app/api/cancas/profile)
+* **REST API MAL**: API untuk mengakses data MyAnimeList. [URL API](https://guracomp.vercel.app/api/mal/)
 
 ## Kontak
 * GitHub: [@ArdSvt](https://github.com/ArdSvt)
