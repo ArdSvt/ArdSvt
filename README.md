@@ -23,7 +23,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
   
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![Canvas.js](https://img.shields.io/badge/-Canvas.js-0078D4?style=for-the-badge&logo=canvas&logoColor=white)
+  ![Canvas.js](https://img.shields.io/badge/-Canvas.js-0078D4?style=flat&logo=canvas&logoColor=white)
 * **Database**: 
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
@@ -39,7 +39,8 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
   ![Termux](https://img.shields.io/badge/Termux-1A1D23?style=flat&logo=linux&logoColor=white) 
   ![Acode](https://img.shields.io/badge/Acode-0078D4?style=flat&logo=code&logoColor=white)
 * **Sistem Operasi**: 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Projek Saya
 * **EmiliaComp**: Sebuah bot WhatsApp dengan fitur-fitur menarik. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)
