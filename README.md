@@ -1,10 +1,5 @@
 # Minna-san, konnichiwa! Watashi wa ArdSvt desu. 👋🏻
 
-<video width="320" height="240" controls>
-  <source src="https://files.catbox.moe/fzy2pt.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## About Me
 Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengembangan aplikasi web dan teknologi informasi. Saya suka bereksperimen dengan kode dan mencari solusi untuk masalah yang kompleks.
 
