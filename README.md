@@ -25,7 +25,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 ## Projek Saya
 * **EmiliaComp**: Sebuah bot WhatsApp yang terintegrasi dengan REST API MyAnimeList. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)
 * **REST API MyAnimeList**: API untuk mengakses data MyAnimeList. [URL API](https://guracomp.vercel.app/api/mal/)
-* **REST API Canvas Profile**: API untuk mengakses data profil canvas. [URL API](https://guracomp.vercel.app/api/cancas/profile)
+* **REST API Canvas Profile**: API untuk membuat gambar profil jpg menggunakan canvas. [URL API](https://guracomp.vercel.app/api/cancas/profile)
 * **REST API DOCS**: Dokumentasi untuk melihat cara menggunakan restapi. [DOKUMENTASI](https://guracomp.vercel.app/)
 
 ## Kontak
