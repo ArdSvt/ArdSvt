@@ -1,7 +1,12 @@
-# Hi there, I'm ArdSvt 👋
+# Hi there, I'm Verdyan Arda 👋
 
 ## About Me
 Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengembangan aplikasi web dan teknologi informasi. Saya suka bereksperimen dengan kode dan mencari solusi untuk masalah yang kompleks.
+
+## Biodata
+* **Nama**: Verdyan Arda
+* **Tempat Tinggal**: Pemali, Bangka Belitung
+* **Hobi**: Ngegame, Ngoding
 
 ## Teknologi yang Saya Gunakan
 * **Backend**: 
@@ -20,7 +25,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 
 ## Kontak
 * GitHub: [@ArdSvt](https://github.com/ArdSvt)
-* Email: [ardsvt@email.com](mailto:ardsvt@email.com)
+* Email: [verdyanarda@email.com](mailto:verdyanarda@email.com)
 
 ## Statistik GitHub
-[![ArdSvt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
+[![Verdyan Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
