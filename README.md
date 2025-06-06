@@ -6,7 +6,6 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 ## Biodata
 * **Nama**: Verdyan Arda
 * **Gender**: Laki-Laki
-* **Tempat Tinggal**: Pemali, Bangka Belitung
 * **Tanggal Lahir**: Sep 21
 * **Hobi**: Ngegame, Ngoding
 
