@@ -44,7 +44,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 
 ## Kontak
 * GitHub: [@ArdSvt](https://github.com/ArdSvt)
-* Email: [verdyanarda@email.com](mailto:verdyanarda@email.com)
+* Email: [verdyanarda@email.com](mailto:verdyanarda@gmail.com)
 * WhatsApp: [ArdSvt](https://wa.me/6283861772386)
 
 ## Statistik GitHub
