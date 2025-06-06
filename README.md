@@ -21,6 +21,8 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 * **Database**: 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+* **Sistem Operasi**: 
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Projek Saya
 * **EmiliaComp**: Sebuah bot WhatsApp yang terintegrasi dengan REST API MyAnimeList. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)
