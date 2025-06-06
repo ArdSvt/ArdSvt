@@ -12,12 +12,15 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 * **Backend**: 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* **Database**: 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 * **Frontend**: 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Canvas](https://img.shields.io/badge/Canvas-0078D4?style=for-the-badge&logo=canvas&logoColor=white)
+* **Database**: 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Projek Saya
 * **Speedtest CLI**: Sebuah aplikasi CLI untuk mengukur kecepatan internet Anda (dalam pengembangan).
@@ -26,7 +29,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 ## Kontak
 * GitHub: [@ArdSvt](https://github.com/ArdSvt)
 * Email: [verdyanarda@email.com](mailto:verdyanarda@email.com)
-* WhatsApp: [ArdSvt](https://wa.me/6283861772386)
+* WhatsApp: [+62 838-6177-2386](https://wa.me/6283861772386)
 
 ## Statistik GitHub
 [![Verdyan Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
