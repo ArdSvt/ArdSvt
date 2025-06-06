@@ -31,7 +31,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white) 
   ![Termux](https://img.shields.io/badge/Termux-1A1D23?style=flat&logo=linux&logoColor=white) 
-  ![Acode](https://img.shields.io/badge/Acode-0078D4?style=flat&logo=code&logoColor=white)
+  ![Acode](https://img.shields.io/badge/Acode-0078D4?style=flat&logo=android&logoColor=white)
 * **Sistem Operasi**: 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
