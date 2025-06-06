@@ -1,6 +1,6 @@
 # Minna-san, konnichiwa! Watashi wa ArdSvt desu. 👋🏻
 
-![Emilia](https://files.catbox.moe/fzy2pt.mp4)
+![Alt Text](https://files.catbox.moe/fzy2pt.mp4)
 
 ## About Me
 Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengembangan aplikasi web dan teknologi informasi. Saya suka bereksperimen dengan kode dan mencari solusi untuk masalah yang kompleks.
