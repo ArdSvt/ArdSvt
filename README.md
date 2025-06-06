@@ -1,4 +1,6 @@
-# Hi there, I'm Verdyan Arda 👋
+Minna-san, konnichiwa! Watashi wa ArdSvt desu. 👋🏻
+
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9E/giphy.gif)
 
 ## About Me
 Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengembangan aplikasi web dan teknologi informasi. Saya suka bereksperimen dengan kode dan mencari solusi untuk masalah yang kompleks.
