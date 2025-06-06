@@ -40,7 +40,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 * **EmiliaComp**: Sebuah bot WhatsApp dengan fitur-fitur menarik. [Join Group](https://chat.whatsapp.com/LQqNid7OaSf9Za9LzMUnvG)
 * **REST API MyAnimeList**: API untuk mengakses data MyAnimeList. [URL API](https://guracomp.vercel.app/api/mal/)
 * **REST API Canvas Profile**: API untuk membuat gambar profil jpg menggunakan canvas. [URL API](https://guracomp.vercel.app/api/cancas/profile)
-* **REST API DOCS**: Dokumentasi untuk melihat cara menggunakan restapi. [DOKUMENTASI](https://guracomp.vercel.app/)
+* **REST API Docs**: Dokumentasi untuk melihat cara menggunakan restapi. [DOKUMENTASI](https://guracomp.vercel.app/)
 
 ## Kontak
 * GitHub: [@ArdSvt](https://github.com/ArdSvt)
