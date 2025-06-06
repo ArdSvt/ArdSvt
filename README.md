@@ -21,8 +21,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Canvas.js](https://img.shields.io/badge/Canvas.js-blue?style=for-the-badge)
-![Canvas.js](https://img.shields.io/badge/Canvas.js-0078D4?style=for-the-badge&logo=javascript&logoColor=white)
+![Canvas.js](https://img.shields.io/badge/-Canvas.js-0078D4?style=for-the-badge&logo=canvas&logoColor=white)
 
 * **Database**: 
   
