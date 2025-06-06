@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ArdSvt/ArdSvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm ArdSvt 👋
 
-Here are some ideas to get you started:
+## About Me
+Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengembangan aplikasi web dan teknologi informasi. Saya suka bereksperimen dengan kode dan mencari solusi untuk masalah yang kompleks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknologi yang Saya Gunakan
+* **Backend**: Node.js, JavaScript
+* **Database**: MongoDB, SQLite3
+* **Frontend**: HTML, CSS
+
+## Projek Saya
+* **Speedtest CLI**: Sebuah aplikasi CLI untuk mengukur kecepatan internet Anda (dalam pengembangan).
+* **Lainnya**: Saya memiliki beberapa projek lain yang sedang dalam pengembangan.
+
+## Kontak
+* GitHub: [@ArdSvt](https://github.com/ArdSvt)
+* Email: [ardiansyahsvt@email.com](mailto:ardiansyahsvt@email.com)
+
+## Statistik GitHub
+[![ArdSvt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
