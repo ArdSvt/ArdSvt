@@ -20,7 +20,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 
 ## Kontak
 * GitHub: [@ArdSvt](https://github.com/ArdSvt)
-* Email: [ardiansyahsvt@email.com](mailto:ardiansyahsvt@email.com)
+* Email: [ardsvt@email.com](mailto:ardsvt@email.com)
 
 ## Statistik GitHub
 [![ArdSvt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
