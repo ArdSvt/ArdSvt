@@ -1,4 +1,4 @@
-# Minna-san, konnichiwa! Watashi wa ArdSvt desu. 👋🏻
+# Hello, let me introduce myself, I am ArdSvt 👋🏻
 
 ## About Me
 Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengembangan aplikasi web dan teknologi informasi. Saya suka bereksperimen dengan kode dan mencari solusi untuk masalah yang kompleks.
