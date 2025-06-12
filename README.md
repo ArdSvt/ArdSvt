@@ -19,7 +19,7 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 * **Frontend**: 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white) 
   ![Canvas.js](https://img.shields.io/badge/-Canvas.js-0078D4?style=flat&logo=canvas&logoColor=white)
 * **Database**: 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
