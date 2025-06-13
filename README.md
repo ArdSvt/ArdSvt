@@ -48,4 +48,4 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 
 ## Statistik GitHub
 [![Verdyan Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
-[!https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"](https://github.com/ArdSvt)
+[![Verdyan Arda's GitHub stats]https://github-readme-stats.vercel.app/api/top-langs/?username=piahn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"](https://github.com/ArdSvt)
