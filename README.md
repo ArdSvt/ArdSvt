@@ -54,5 +54,5 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdSvt&theme=radical%22%20alt=%22GitHub%20Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdSvt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
