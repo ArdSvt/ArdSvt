@@ -46,5 +46,22 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 * Email: [verdyanarda@gmail.com](mailto:verdyanarda@gmail.com)
 * WhatsApp: [ArdSvt](https://wa.me/6283861772386)
 
-## Statistik GitHub
-[![Verdyan Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&theme=radical)](https://github.com/ArdSvt)
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdyusran&show_icons=true&theme=radical%22%20alt=%22GitHub%20Stats%22%20height=%22170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmdyusran&layout=compact&theme=radical%22%20alt=%22Top%20Languages%22%20height=%22170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmdyusran&theme=radical%22%20alt=%22GitHub%20Streak" />
+</div>
+
+<details>
+  <summary>⚙️ Detailed GitHub Activity</summary>
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhmmdyusran&theme=monokai" alt="Activity Graph" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmmdyusran&theme=onedark&column=7" alt="Trophies" />
+</details>
