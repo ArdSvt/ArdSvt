@@ -56,12 +56,3 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdSvt&theme=radical%22%20alt=%22GitHub%20Streak" />
 </div>
-
-<details>
-  <summary>Detailed GitHub Activity</summary>
-  <br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArdSvt&theme=monokai" alt="Activity Graph" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ArdSvttheme=onedark&column=7" alt="Trophies" />
-</details>
