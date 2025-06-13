@@ -50,6 +50,6 @@ Saya seorang pengembang perangkat lunak yang memiliki minat besar dalam pengemba
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArdSvt&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdSvt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdSvt&hide_border=false&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdSvt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
